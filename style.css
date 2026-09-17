@@ -246,3 +246,8 @@ footer.site-footer {
   .hero img { width: 128px; height: 128px; }
   .pub-list { grid-template-columns: 1fr; }
 }
+.group-leader {
+  padding-bottom: 30px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #ccc;
+}
