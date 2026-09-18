@@ -142,12 +142,8 @@ h3 {
 .collaborators-title { margin-top: 56px; }
 
 .hero.collaborator {
-  margin-bottom: 40px;
+  margin-bottom: 64px;
   gap: 24px;
-}
-.hero.collaborator img {
-  width: 130px;
-  height: 130px;
 }
 .hero.collaborator .hero-text h2 { font-size: 1.15rem; }
 
